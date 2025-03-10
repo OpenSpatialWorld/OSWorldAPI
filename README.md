@@ -14,7 +14,7 @@ A [MSF 3D Web Interoperability WG](https://metaverse-standards.org/domain-groups
 
 ## Open Spatial Asset API
 
-IANA Registert Model Encoding
+IANA [Registert](https://www.iana.org/assignments/media-types/media-types.xhtml#model) Model Encoding
 
 | Format | Description |
 | --- | --- |
