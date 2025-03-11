@@ -6,7 +6,7 @@ Building a open, adaptive and connected Metaverse on modern web standards and fe
 
 The Core Introduction [Core Introduction](https://metaverse-standards.org/#slides) to the [Metaverse Standards Forum](https://metaverse-standards.org) contains on the first slide the following statement that did not change for last years:
 
-"The metaverse combines the **connectivity of the Web** with the **immersiveness** of **spatial computing**"
+> The metaverse combines the **connectivity of the Web** with the **immersiveness** of **spatial computing**
 
 A [MSF 3D Web Interoperability WG](https://metaverse-standards.org/domain-groups/3d-web-interoperability/)
 
