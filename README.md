@@ -46,7 +46,7 @@ IANA [Registert](https://www.iana.org/assignments/media-types/media-types.xhtml#
 | --- | --- | --- |
 | [las](https://en.wikipedia.org/wiki/LAS_file_format) | 😦 | |
 | [glExtRef](https://github.com/KhronosGroup/glTF-External-Reference) | 😦 | |
-| [SPZ][https://en.wikipedia.org/wiki/LAS_file_format) | 😦 | |
+| [SPZ](https://github.com/nianticlabs/spz) | 😦 | |
 
 # Implementations
 
