@@ -1,6 +1,6 @@
 # Hello, OSWorld !
 
-Building a open, adaptive and connected Metaverse on modern web standards and feature. 
+Building a open, adaptive and connected Metaverse on modern web standards and feature :rocket: . 
 
 # Foundation  
 
@@ -43,6 +43,10 @@ IANA [Registert](https://www.iana.org/assignments/media-types/media-types.xhtml#
 | x3d-vrml | [model/x3d-vrml](https://www.iana.org/assignments/media-types/model/x3d-vrml) | Any model format |
 | x3d+fastinfoset | [model/x3d+fastinfoset](https://www.iana.org/assignments/media-types/model/x3d+fastinfoset) | Any model format |
 | x3d+xml | [model/x3d+xml](https://www.iana.org/assignments/media-types/model/x3d+xml) | Any model format |
+| --- | --- | --- |
+| [las](https://en.wikipedia.org/wiki/LAS_file_format) | 😦 | |
+| [glExtRef](https://github.com/KhronosGroup/glTF-External-Reference) | 😦 | |
+| [SPZ][https://en.wikipedia.org/wiki/LAS_file_format) | 😦 | |
 
 # Implementations
 
