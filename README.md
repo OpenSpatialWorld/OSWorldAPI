@@ -20,7 +20,7 @@ A [MSF 3D Web Interoperability WG](https://metaverse-standards.org/domain-groups
 
 IANA [Registert](https://www.iana.org/assignments/media-types/media-types.xhtml#model) Model Encoding
 
-| Subtype Name | Negotiation Key | In domain Links |
+| Name | [IANA Registration](https://www.iana.org/assignments/media-types/media-types.xhtml#model) | In domain Links |
 | --- | --- | --- |
 | 3mf | [model/3mf](https://www.iana.org/assignments/media-types/model/3mf) | |
 | e57 | [model/e57](https://www.iana.org/assignments/media-types/model/e57) | |
