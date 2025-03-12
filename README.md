@@ -22,29 +22,27 @@ IANA [Registert](https://www.iana.org/assignments/media-types/media-types.xhtml#
 
 | Format | Negotiation Key | In domain Links |
 | --- | --- | --- |
-| 3mf | model/3mf | |
-| e57 | model/e57 | |
-| example | model/example | |
-| gltf-binary | model/gltf-binary | |
-| gltf+json | model/gltf+json | |
-| JT | model/JT | jt |
-| iges | model/iges | |
-| mesh | model/mesh | |
-| mtl | model/mtl | |
-| obj | model/obj | |
-| prc | model/prc | |
-| step | model/step | Any model format |
-| step+xml | model/step+xml | Any model format |
-| step+zip | model/step+zip | Any model format |
-| step-xml+zip | model/step-xml+zip | Any model format |
-| stl | model/stl | |
-| u3d | model/u3d | |
-| vnd.usda | model/vnd.usda | usd |
-| vnd.usdz+zip | model/vnd.usdz+zip | usd |
-| vrml | model/vrml | vrml |
-| x3d-vrml | model/x3d-vrml | Any model format |
-| x3d+fastinfoset | model/x3d+fastinfoset | Any model format |
-| x3d+xml | model/x3d+xml | Any model format |
+| 3mf | [model/3mf](https://www.iana.org/assignments/media-types/model/3mf) | |
+| e57 | [model/e57](https://www.iana.org/assignments/media-types/model/e57) | |
+| gltf-binary | [model/gltf-binary]([url](https://www.iana.org/assignments/media-types/model/gltf-binary)) | |
+| gltf+json | [model/gltf+json]([url](https://www.iana.org/assignments/media-types/model/gltf+json)) | |
+| JT | [model/JT](https://www.iana.org/assignments/media-types/model/JT) | jt |
+| iges | [model/iges]([url](https://www.iana.org/assignments/media-types/model/iges)) | |
+| mtl | [model/mtl](https://www.iana.org/assignments/media-types/model/mtl) | |
+| obj | [model/obj]([url](https://www.iana.org/assignments/media-types/model/obj)) | |
+| prc | [model/prc](https://www.iana.org/assignments/media-types/model/prc) | |
+| step | [model/step](https://www.iana.org/assignments/media-types/model/step) | Any model format |
+| step+xml | [model/step+xml](https://www.iana.org/assignments/media-types/model/step+xml) | Any model format |
+| step+zip | [model/step+zip]([url](https://www.iana.org/assignments/media-types/model/step-xml+zip)) | Any model format |
+| step-xml+zip | [model/step-xml+zip]([url](https://www.iana.org/assignments/media-types/model/step-xml+zip)) | Any model format |
+| stl | [model/stl]([url](https://www.iana.org/assignments/media-types/model/stl)) | |
+| u3d | [model/u3d](https://www.iana.org/assignments/media-types/model/u3d) | |
+| vnd.usda | [model/vnd.usda](https://www.iana.org/assignments/media-types/model/vnd.usda) | usd |
+| vnd.usdz+zip | [model/vnd.usdz+zip](https://www.iana.org/assignments/media-types/model/vnd.usdz+zip) | usd |
+| vrml | [model/vrml](https://www.iana.org/assignments/media-types/model/vrml) | vrml |
+| x3d-vrml | [model/x3d-vrml](https://www.iana.org/assignments/media-types/model/x3d-vrml) | Any model format |
+| x3d+fastinfoset | [model/x3d+fastinfoset](https://www.iana.org/assignments/media-types/model/x3d+fastinfoset) | Any model format |
+| x3d+xml | [model/x3d+xml](https://www.iana.org/assignments/media-types/model/x3d+xml) | Any model format |
 
 # Implementations
 
