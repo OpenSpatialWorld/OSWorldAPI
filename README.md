@@ -20,22 +20,22 @@ A [MSF 3D Web Interoperability WG](https://metaverse-standards.org/domain-groups
 
 IANA [Registert](https://www.iana.org/assignments/media-types/media-types.xhtml#model) Model Encoding
 
-| Format | Negotiation Key | In domain Links |
+| Subtype Name | Negotiation Key | In domain Links |
 | --- | --- | --- |
 | 3mf | [model/3mf](https://www.iana.org/assignments/media-types/model/3mf) | |
 | e57 | [model/e57](https://www.iana.org/assignments/media-types/model/e57) | |
-| gltf-binary | [model/gltf-binary]([url](https://www.iana.org/assignments/media-types/model/gltf-binary)) | |
-| gltf+json | [model/gltf+json]([url](https://www.iana.org/assignments/media-types/model/gltf+json)) | |
+| gltf-binary | [model/gltf-binary](https://www.iana.org/assignments/media-types/model/gltf-binary) | |
+| gltf+json | [model/gltf+json](https://www.iana.org/assignments/media-types/model/gltf+json) | |
 | JT | [model/JT](https://www.iana.org/assignments/media-types/model/JT) | jt |
-| iges | [model/iges]([url](https://www.iana.org/assignments/media-types/model/iges)) | |
+| iges | [model/iges](https://www.iana.org/assignments/media-types/model/iges) | |
 | mtl | [model/mtl](https://www.iana.org/assignments/media-types/model/mtl) | |
-| obj | [model/obj]([url](https://www.iana.org/assignments/media-types/model/obj)) | |
+| obj | [model/obj](https://www.iana.org/assignments/media-types/model/obj) | |
 | prc | [model/prc](https://www.iana.org/assignments/media-types/model/prc) | |
 | step | [model/step](https://www.iana.org/assignments/media-types/model/step) | Any model format |
 | step+xml | [model/step+xml](https://www.iana.org/assignments/media-types/model/step+xml) | Any model format |
-| step+zip | [model/step+zip]([url](https://www.iana.org/assignments/media-types/model/step-xml+zip)) | Any model format |
-| step-xml+zip | [model/step-xml+zip]([url](https://www.iana.org/assignments/media-types/model/step-xml+zip)) | Any model format |
-| stl | [model/stl]([url](https://www.iana.org/assignments/media-types/model/stl)) | |
+| step+zip | [model/step+zip](https://www.iana.org/assignments/media-types/model/step-xml+zip) | Any model format |
+| step-xml+zip | [model/step-xml+zip](https://www.iana.org/assignments/media-types/model/step-xml+zip) | Any model format |
+| stl | [model/stl](https://www.iana.org/assignments/media-types/model/stl) | |
 | u3d | [model/u3d](https://www.iana.org/assignments/media-types/model/u3d) | |
 | vnd.usda | [model/vnd.usda](https://www.iana.org/assignments/media-types/model/vnd.usda) | usd |
 | vnd.usdz+zip | [model/vnd.usdz+zip](https://www.iana.org/assignments/media-types/model/vnd.usdz+zip) | usd |
