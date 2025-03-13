@@ -39,7 +39,6 @@ IANA [Registert](https://www.iana.org/assignments/media-types/media-types.xhtml#
 | u3d | [model/u3d](https://www.iana.org/assignments/media-types/model/u3d) | |
 | vnd.usda | [model/vnd.usda](https://www.iana.org/assignments/media-types/model/vnd.usda) | usd |
 | vnd.usdz+zip | [model/vnd.usdz+zip](https://www.iana.org/assignments/media-types/model/vnd.usdz+zip) | usd |
-| vrml | [model/vrml](https://www.iana.org/assignments/media-types/model/vrml) | vrml |
 | x3d-vrml | [model/x3d-vrml](https://www.iana.org/assignments/media-types/model/x3d-vrml) | Any model format |
 | x3d+fastinfoset | [model/x3d+fastinfoset](https://www.iana.org/assignments/media-types/model/x3d+fastinfoset) | Any model format |
 | x3d+xml | [model/x3d+xml](https://www.iana.org/assignments/media-types/model/x3d+xml) | Any model format |
@@ -48,5 +47,11 @@ IANA [Registert](https://www.iana.org/assignments/media-types/media-types.xhtml#
 | [SPZ](https://github.com/nianticlabs/spz) | 😦 | |
 
 # Implementations
+
+| Name | Liscene | API Level | Format |
+| --- | --- | --- | --- | 
+| x3domWorld | Free | 5  | gltf-binary, gltf+json, x3d+xml |
+| threedy.space | Commercial | 5 | e57, gltf-binary, gltf+json, x3d+xml, JT, step, step+xml, step+zip, step-xml+zip, step-xml+zip, vnd.usda, vnd.usdz+zip, x3d-vrml, x3d+fastinfoset, x3d+xml, las |
+| UnrealWrapper | Free | 2 | 
 
 # Standardisation
