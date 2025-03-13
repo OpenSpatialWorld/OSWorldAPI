@@ -48,10 +48,27 @@ IANA [Registert](https://www.iana.org/assignments/media-types/media-types.xhtml#
 
 # Implementations
 
+## Open Spataial World API
+
 | Name | Liscene | API Level | Format |
 | --- | --- | --- | --- | 
 | x3domWorld | Free | 5  | gltf-binary, gltf+json, x3d+xml |
 | threedy.space | Commercial | 5 | e57, gltf-binary, gltf+json, x3d+xml, JT, step, step+xml, step+zip, step-xml+zip, step-xml+zip, vnd.usda, vnd.usdz+zip, x3d-vrml, x3d+fastinfoset, x3d+xml, las |
+| OmniverseWrapper | ... | 3  | vnd.usda, vnd.usdz+zip |
 | UnrealWrapper | Free | 2 | 
+| UnityWrapper | Free | 2 | 
+| OmniverseWrapper | ... | 3  | 
+
+## Open Space Asset API
+
+| Name | Liscene | Format | 
+| RapidPipeline | Commercial | gltf-binary, gltf+json, vnd.usda, vnd.usdz+zip, x3d+xml | 
+
+# Live Demo Worlds
+
+| Name | Endpoint | API Level |
+| hello world | [testWorld.OpenSpatialWorld.io](testWorld.OpenSpatialWorld.io) | 3 | 
+| open portal | [openPortal.OpenSpatialWorld.io](testWorld.OpenSpatialWorld.io) | 5 | 
+| threedy industrial Metaverse Use-Case | [threedy.space/3435/603946/api/osw/v1](testWorld.OpenSpatialWorld.io) | 5 | 
 
 # Standardisation
