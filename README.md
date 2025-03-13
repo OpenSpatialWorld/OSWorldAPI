@@ -62,11 +62,13 @@ IANA [Registert](https://www.iana.org/assignments/media-types/media-types.xhtml#
 ## Open Space Asset API
 
 | Name | Liscene | Format | 
+| --- | --- | --- |
 | RapidPipeline | Commercial | gltf-binary, gltf+json, vnd.usda, vnd.usdz+zip, x3d+xml | 
 
 # Live Demo Worlds
 
 | Name | Endpoint | API Level |
+| --- | --- | --- |
 | hello world | [testWorld.OpenSpatialWorld.io](testWorld.OpenSpatialWorld.io) | 3 | 
 | open portal | [openPortal.OpenSpatialWorld.io](testWorld.OpenSpatialWorld.io) | 5 | 
 | threedy industrial Metaverse Use-Case | [threedy.space/3435/603946/api/osw/v1](testWorld.OpenSpatialWorld.io) | 5 | 
