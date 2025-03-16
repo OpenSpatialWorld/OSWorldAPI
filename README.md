@@ -63,14 +63,17 @@ IANA [Registert](https://www.iana.org/assignments/media-types/media-types.xhtml#
 
 | Name | Liscene | Format | 
 | --- | --- | --- |
-| RapidPipeline | Commercial | gltf-binary, gltf+json, vnd.usda, vnd.usdz+zip, x3d+xml | 
+| [RapidPipeline](https://rapidpipeline.com) | Commercial | gltf-binary, gltf+json, vnd.usda, vnd.usdz+zip, x3d+xml |
+| [Sketchfab](https://sketchfab.com) | Commercial | gltf-binary, gltf+json, vnd.usda, vnd.usdz+zip |
+
+https://sketchfab.com/feed
 
 # Live Demo Worlds
 
 | Name | Endpoint | API Level |
 | --- | --- | --- |
-| hello world | [testWorld.OpenSpatialWorld.io](testWorld.OpenSpatialWorld.io) | 3 | 
-| open portal | [openPortal.OpenSpatialWorld.io](testWorld.OpenSpatialWorld.io) | 5 | 
-| threedy industrial Metaverse Use-Case | [threedy.space/3435/603946/api/osw/v1](testWorld.OpenSpatialWorld.io) | 5 | 
+| hello world | [testWorld.OpenSpatialWorld.io](https://testWorld.OpenSpatialWorld.io) | 3 | 
+| open portal | [openPortal.OpenSpatialWorld.io](https://testWorld.OpenSpatialWorld.io) | 5 | 
+| threedy industrial Metaverse Use-Case | [threedy.space/msf/60394sdf6/api/osw/v1](http://threedy.space/msf/60394sdf6/api/osw/v1) | 5 | 
 
 # Standardisation
