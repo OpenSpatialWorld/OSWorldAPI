@@ -15,6 +15,9 @@ A [MSF 3D Web Interoperability WG](https://metaverse-standards.org/domain-groups
 ## Open Spatial World API
 
 
+| Name | Liscene | API Level | Format |
+
+
 
 ## Open Spatial Asset API
 
@@ -53,11 +56,10 @@ IANA [Registert](https://www.iana.org/assignments/media-types/media-types.xhtml#
 | Name | Liscene | API Level | Format |
 | --- | --- | --- | --- | 
 | x3domWorld | Free | 5  | gltf-binary, gltf+json, x3d+xml |
-| threedy.space | Commercial | 5 | e57, gltf-binary, gltf+json, x3d+xml, JT, step, step+xml, step+zip, step-xml+zip, step-xml+zip, vnd.usda, vnd.usdz+zip, x3d-vrml, x3d+fastinfoset, x3d+xml, las |
-| OmniverseWrapper | ... | 3  | vnd.usda, vnd.usdz+zip |
+| [threedy.io](https://www.threedy.io) | Commercial | 5 | e57, gltf-binary, gltf+json, x3d+xml, JT, step, step+xml, step+zip, step-xml+zip, step-xml+zip, vnd.usda, vnd.usdz+zip, x3d-vrml, x3d+fastinfoset, x3d+xml, las |
+| HTMLModeWrapper | Free | 3  | vnd.usdz+zip |
 | UnrealWrapper | Free | 2 | 
 | UnityWrapper | Free | 2 | 
-| OmniverseWrapper | ... | 3  | 
 
 ## Open Space Asset API
 
@@ -65,8 +67,6 @@ IANA [Registert](https://www.iana.org/assignments/media-types/media-types.xhtml#
 | --- | --- | --- |
 | [RapidPipeline](https://rapidpipeline.com) | Commercial | gltf-binary, gltf+json, vnd.usda, vnd.usdz+zip, x3d+xml |
 | [Sketchfab](https://sketchfab.com) | Commercial | gltf-binary, gltf+json, vnd.usda, vnd.usdz+zip |
-
-https://sketchfab.com/feed
 
 # Live Demo Worlds
 
