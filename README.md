@@ -56,7 +56,7 @@ IANA [Registert](https://www.iana.org/assignments/media-types/media-types.xhtml#
 | Name | Liscene | API Level | Format |
 | --- | --- | --- | --- | 
 | x3domWorld | Free | 5  | gltf-binary, gltf+json, x3d+xml |
-| [threedy.io](https://www.threedy.io) | Commercial | 5 | e57, gltf-binary, gltf+json, x3d+xml, JT, step, step+xml, step+zip, step-xml+zip, step-xml+zip, vnd.usda, vnd.usdz+zip, x3d-vrml, x3d+fastinfoset, x3d+xml, las |
+| [threedy.io](https://www.threedy.io) | Commercial | 5 | e57, gltf-binary, gltf+json, JT, step, step+xml, step+zip, step-xml+zip, step-xml+zip, vnd.usda, vnd.usdz+zip, x3d-vrml, x3d+fastinfoset, x3d+xml, las |
 | HTMLModeWrapper | Free | 3  | vnd.usdz+zip |
 | UnrealWrapper | Free | 2 | 
 | UnityWrapper | Free | 2 | 
