@@ -15,8 +15,13 @@ A [MSF 3D Web Interoperability WG](https://metaverse-standards.org/domain-groups
 ## Open Spatial World API
 
 
-| Name | Liscene | API Level | Format |
-
+| API | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
+| --- | --- | --- | --- | --- | ---  |
+| webApp access | single app | multi app | multi app | multi app | multi app  |
+| user access |  | read | read/write | read/write | read/write  |
+| view access |  | read | read | read/write | read/write  |
+| portal access |  | read | read | read/write | read/write  |
+| Node access |  |  | read | read/write, Asset links | read/write, Asset links & data  |
 
 
 ## Open Spatial Asset API
@@ -53,7 +58,7 @@ IANA [Registert](https://www.iana.org/assignments/media-types/media-types.xhtml#
 
 ## Open Spataial World API
 
-| Name | Liscene | API Level | Format |
+| Name | Liscene | Level | Format |
 | --- | --- | --- | --- | 
 | x3domWorld | Free | 5  | gltf-binary, gltf+json, x3d+xml |
 | [threedy.io](https://www.threedy.io) | Commercial | 5 | e57, gltf-binary, gltf+json, JT, step, step+xml, step+zip, step-xml+zip, step-xml+zip, vnd.usda, vnd.usdz+zip, x3d-vrml, x3d+fastinfoset, x3d+xml, las |
